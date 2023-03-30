@@ -8,3 +8,5 @@ body
     min-height: 100vh;
     background: #4c375629;    
 }
+
+<button type="button" style="background-color: #4CAF50; color: white; font-size: 16px;"> take quiz </button>
