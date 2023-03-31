@@ -67,3 +67,5 @@ const quiz = {
 };
 
 quiz.checkAnswers();
+
+Render().quiz
